@@ -1,4 +1,4 @@
-## <h3 align="center"> Documentos Notion de estudos feitos por mim. Espero contribuir com o crescimento de todos!</h3> 
+## <h3 align="center"> Documentos Notion de estudos feitos por mim.<br>Espero contribuir com o crescimento de todos!</h3> 
 ##
 
 
