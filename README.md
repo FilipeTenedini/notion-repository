@@ -15,8 +15,8 @@
 
 #### Event Listener e Eventos (em espera).
 
-#### Short-circuit operators (em espera).
-
 #### Como instalar o Node, CRA e o Vite? (em espera).
+
+#### Short-circuit operators (em espera).
 
 #### React Hooks (em espera)
