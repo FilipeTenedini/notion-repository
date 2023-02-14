@@ -13,6 +13,10 @@
 #### ES6 Module (em construção)
   - <a href="https://fuzzy-tip-309.notion.site/JavaScript-module-91eb085693e5486a92d7c1971dfb28bb"> Link do Notion </a>
 
-
-
 #### Event Listener e Eventos (em espera).
+
+#### Short-circuit operators (em espera).
+
+#### Como instalar o Node, CRA e o Vite? (em espera).
+
+#### React Hooks (em espera)
