@@ -17,9 +17,10 @@
   - <a href="https://www.notion.so/Criando-um-projeto-React-passo-a-passo-sem-utilizar-bibliotecas-como-Vite-ou-create-react-app-f232e60a076b418d9ba39edc787cd5a9"> Link do Notion </a>
   
 #### Bibliotecas interessantes para React:
-  - Como typar props sem usar typescript
+  - Conteúdos:
+    - Como typar props sem usar typescript  
   - <a href="https://www.notion.so/BIbliotecas-interessantes-React-0818ebbc26f24eaea913dc225084318c?pvs=4"> Link do notion </a>
-  
+
   
 #### Git commits semânticos (em espera)
 
