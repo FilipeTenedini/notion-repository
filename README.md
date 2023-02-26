@@ -26,11 +26,11 @@
 <h3 align="center">---------- EM ESPERA, DOCUMENTOS AINDA NÃO FORAM COMEÇADOS ----------</h3>
   
   
+#### Short-circuit operators
   
 #### Git commits semânticos
 
 #### Event Listener e Eventos
 
-#### Short-circuit operators
 
 #### React Hooks
