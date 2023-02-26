@@ -18,15 +18,19 @@
   
 #### Bibliotecas interessantes para React:
   - Conteúdos:
-    - Como typar props sem usar typescript  
+    - Como typar props sem usar typescript (Biblioteca PropTypes)
   - <a href="https://www.notion.so/BIbliotecas-interessantes-React-0818ebbc26f24eaea913dc225084318c?pvs=4"> Link do notion </a>
 
+
+<br><br><br><br><br>
+<h3 align="center">---------- EM ESPERA, DOCUMENTOS AINDA NÃO FORAM COMEÇADOS ----------</h3>
   
-#### Git commits semânticos (em espera)
+  
+  
+#### Git commits semânticos
 
-#### Event Listener e Eventos (em espera)
+#### Event Listener e Eventos
 
+#### Short-circuit operators
 
-#### Short-circuit operators (em espera)
-
-#### React Hooks (em espera)
+#### React Hooks
