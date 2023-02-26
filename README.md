@@ -13,11 +13,12 @@
 #### ES6 Module (em construção)
   - <a href="https://fuzzy-tip-309.notion.site/JavaScript-module-91eb085693e5486a92d7c1971dfb28bb"> Link do Notion </a>
 
+#### Criando um projeto React passo a passo sem utilizar bibliotecas como Vite ou create-react-app 
+  - <a href="https://www.notion.so/Criando-um-projeto-React-passo-a-passo-sem-utilizar-bibliotecas-como-Vite-ou-create-react-app-f232e60a076b418d9ba39edc787cd5a9"> Link do Notion </a>
 #### Git commits semânticos (em espera)
 
 #### Event Listener e Eventos (em espera)
 
-#### Como instalar o Node, CRA e o Vite? (em espera)
 
 #### Short-circuit operators (em espera)
 
